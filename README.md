@@ -30,7 +30,7 @@ After downloading `Password.Hasher.zip`, follow these steps to run the applicati
    
      - **System Preferences Method:**
        - Open **System Preferences** > **Security & Privacy** > **General**.
-       - Click **"Open Anyway"** next to the warning about `password_hasher.app`.
+       - Click **"Open Anyway"** next to the warning about `Password.Hasher.app`.
 
 3. **Run the Application:**
    - The app should now launch without further warnings.
