@@ -9,3 +9,43 @@ Copy to Clipboard: Easily copy the hashed password for use elsewhere.
 Offline Usage: All operations are performed locally for enhanced security. (Intended to be downloaded/used offline)
 Cross-Platform: Available as an executable for Windows and an app for macOS.
 Open Source: Code is available for modification and improvement.
+
+###Security Notice###
+Please be aware that this application is not digitally signed, which may result in security warnings when you attempt to run it. Downloading and using the application is at your own discretion. For full transparency and peace of mind, the complete source code is available within this repository, allowing you to review and verify its functionality.
+
+## Running the Application on macOS
+
+After downloading `password_hasher.app.zip`, follow these steps to run the application:
+
+1. **Extract the Application:**
+   - Double-click `password_hasher.app.zip` to extract `password_hasher.app`.
+
+2. **Open the Application:**
+   - Double-click `password_hasher.app`.
+   - If you see a warning stating that the app cannot be opened because the developer cannot be verified:
+     - **Right-Click Method:**
+       - Right-click (or Control-click) on `password_hasher.app`.
+       - Select **"Open"**.
+       - In the dialog that appears, click **"Open"** again.
+   
+     - **System Preferences Method:**
+       - Open **System Preferences** > **Security & Privacy** > **General**.
+       - Click **"Open Anyway"** next to the warning about `password_hasher.app`.
+
+3. **Run the Application:**
+   - The app should now launch without further warnings.
+
+
+
+
+## Running the Application on Windows
+
+After downloading `password_hasher.exe`, you might encounter a security warning from Windows Defender SmartScreen.
+
+**To Run the Application:**
+
+1. Double-click the `password_hasher.exe` file.
+2. In the SmartScreen warning dialog, click on **"More info"**.
+3. Click on **"Run anyway"** to launch the application.
+
+**Note:** This warning appears because the application is not digitally signed. Ensure you trust the source before proceeding.
