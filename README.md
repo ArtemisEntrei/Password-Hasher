@@ -15,16 +15,16 @@ Please be aware that this application is not digitally signed, which may result 
 
 ## Running the Application on macOS
 
-After downloading `password_hasher.app.zip`, follow these steps to run the application:
+After downloading `Password.Hasher.zip`, follow these steps to run the application:
 
 1. **Extract the Application:**
-   - Double-click `password_hasher.app.zip` to extract `password_hasher.app`.
+   - Double-click `Password.Hasher.zip` to extract `Password.Hasher.app`.
 
 2. **Open the Application:**
-   - Double-click `password_hasher.app`.
+   - Double-click `Password.Hasher.app`.
    - If you see a warning stating that the app cannot be opened because the developer cannot be verified:
      - **Right-Click Method:**
-       - Right-click (or Control-click) on `password_hasher.app`.
+       - Right-click (or Control-click) on `Password.Hasher.app`.
        - Select **"Open"**.
        - In the dialog that appears, click **"Open"** again.
    
@@ -40,11 +40,11 @@ After downloading `password_hasher.app.zip`, follow these steps to run the appli
 
 ## Running the Application on Windows
 
-After downloading `password_hasher.exe`, you might encounter a security warning from Windows Defender SmartScreen.
+After downloading `PasswordHasher.exe`, you might encounter a security warning from Windows Defender SmartScreen.
 
 **To Run the Application:**
 
-1. Double-click the `password_hasher.exe` file.
+1. Double-click the `PasswordHasher.exe` file.
 2. In the SmartScreen warning dialog, click on **"More info"**.
 3. Click on **"Run anyway"** to launch the application.
 
